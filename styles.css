@@ -1,1 +1,11 @@
-/* No CSS *//*# sourceMappingURL=styles.css.map */
+#genres {
+  font-size: 40px;
+  margin: 10px;
+  font-weight: bold;
+}
+
+li {
+  font-size: 15px;
+  font-weight: normal;
+}
+/*# sourceMappingURL=styles.css.map */
